@@ -2,7 +2,7 @@ Afin de pouvoir executer l'ensemble des scripts de ce répertoire, certaines lib
 Afin de les installer vous pouvez executer la commande ci-dessous pour installer les packages pip ainsi que télécharger les modèles de la librairies spacy.
 ```.\download_models.sh```
 
-Les exercices peuvent se lancer simplement avec la commande ```python {fichier}.py```
+Les exercices peuvent se lancer simplement avec la commande ```python {fichier}.py``` cependant ils ne contiennent que la fonction et pas de cas de test donc ils ne renverront rien.
 
 Pour les exercices 1 à 5 je me suis basé sur le feedback de Coditily pour savoir si mes résultats était corrects.
 J'ai donc du faire plusieurs ittérations afin d'obtenir des résultats corrects nottament pour l'éxercice 5 où j'ai détaillé mes différentes versions.
