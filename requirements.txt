@@ -1,0 +1,6 @@
+itertools
+queue
+pandas
+spacy
+sklearn
+wikipedia
